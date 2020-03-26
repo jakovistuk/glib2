@@ -2,5 +2,5 @@
 import com.mpsi.Test2
 def call(){
 	println 'HELLO WORLD'
-	Test2.DisplayName2()
+	Test2.DisplayName()
 }
