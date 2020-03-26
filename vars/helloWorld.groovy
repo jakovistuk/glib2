@@ -6,4 +6,6 @@ def call(){
 	Test2.test1()
 	println 'HELLO WORLD 2...'
 	
+	println Test2.test2()
+	
 }
