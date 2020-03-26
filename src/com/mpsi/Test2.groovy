@@ -19,6 +19,10 @@ class Test2 {
         println("XXXXXXXXXXy his is an example of a simple method");
         println("XXXXXXXXXXy his is an example of a simple method");
     }
+    
+     static void test2(){
+        return "method method method method"
+    }
 
     static void main(String[] args) {
         DisplayName();
