@@ -20,7 +20,7 @@ class Test2 {
         println("XXXXXXXXXXy his is an example of a simple method");
     }
     
-     static void test2(){
+     static String test2(){
         return "method method method method"
     }
 
