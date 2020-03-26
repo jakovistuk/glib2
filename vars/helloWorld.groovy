@@ -16,8 +16,12 @@ def call(){
 	stringList.add(3)
 	stringList.add(4)
 	stringList.add(5)
-
+	
+	
+	println 'HELLO WORLD 3...'+stringList.size()
 	println stringList.countBy { it % 2 }
+	
+	println 'HELLO WORLD 4...'
 
 
 }
